@@ -15,14 +15,14 @@ git clone https://github.com/<your user>/<repo name>.git
 git status
 ```
 
-3. Create new branch 
+3. Create new branch
 
 
 ```bash
 git checkout -b dmitry/modify-files
 ```
 
-4. Download objects and refs from another repository 
+4. Download objects and refs from another repository
 
 ```bash
 git fetch
@@ -53,5 +53,3 @@ git checkout main
 ```bash
 git add .
 ```
-
-
