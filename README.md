@@ -47,3 +47,11 @@ git branch -a
 ```bash
 git checkout main
 ```
+
+8. Index new and modified files
+
+```bash
+git add .
+```
+
+
